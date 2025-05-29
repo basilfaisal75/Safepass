@@ -1,0 +1,50 @@
+2025-04-08 15:56:35,655 - INFO - Database tables (users and passwords) are ready.
+2025-04-08 15:57:05,821 - INFO - Password saved to database for user_id 1.
+2025-04-08 16:04:36,499 - INFO - Database tables (users and passwords) are ready.
+2025-04-08 16:05:04,273 - INFO - Password saved to database for user_id 1.
+2025-04-10 14:53:39,125 - INFO - Database tables (users and passwords) are ready.
+2025-04-10 15:10:14,903 - INFO - Database tables (users and passwords) are ready.
+2025-04-10 15:10:38,957 - INFO - Password saved to database for user_id 1.
+2025-04-10 15:11:06,805 - INFO - Database tables (users and passwords) are ready.
+2025-04-10 15:11:22,525 - INFO - Password saved to database for user_id 1.
+2025-04-10 15:12:20,468 - INFO - Database tables (users and passwords) are ready.
+2025-04-10 15:12:38,348 - INFO - Password saved to database for user_id 1.
+2025-04-22 15:58:18,124 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 15:58:50,389 - INFO - Password saved to database for user_id 1.
+2025-04-22 16:00:38,964 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 16:27:00,387 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 16:30:19,738 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 16:31:59,842 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 16:32:37,341 - INFO - Password saved to database for user_id 1.
+2025-04-22 16:34:07,101 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 16:34:33,402 - INFO - Password saved to database for user_id 1.
+2025-04-22 16:36:52,859 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 16:37:10,922 - INFO - Password saved to database for user_id 1.
+2025-04-22 16:59:25,523 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 16:59:46,295 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 17:00:10,902 - INFO - Password saved to database for user_id 1.
+2025-04-22 17:00:26,736 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 17:08:39,442 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 17:11:45,569 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 17:12:10,671 - INFO - Password saved to database for user_id 1.
+2025-04-22 17:13:11,025 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 20:39:04,356 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 20:44:17,652 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 20:46:30,392 - INFO - Database tables (users and passwords) are ready.
+2025-04-22 20:53:53,659 - INFO - Database tables ready.
+2025-04-22 20:57:28,704 - INFO - Database tables ready.
+2025-04-22 20:57:40,802 - INFO - Saved encrypted password for user 1
+2025-04-22 20:59:02,078 - INFO - Database tables ready.
+2025-04-22 20:59:21,534 - INFO - Saved encrypted password for user 1
+2025-04-22 23:38:14,700 - INFO - Database tables ready.
+2025-04-23 09:34:46,922 - INFO - Database tables ready.
+2025-04-23 09:35:00,889 - INFO - Registered new user: greenwich
+2025-04-23 09:35:03,862 - INFO - Login successful for user_id 2
+2025-04-23 09:35:18,084 - INFO - Saved encrypted password for user 2
+2025-04-23 09:35:24,591 - INFO - Retrieved 1 passwords for user 2
+2025-04-23 12:33:24,828 - INFO - Database tables ready.
+2025-04-23 12:33:43,677 - WARNING - Login failed for username: basil
+2025-04-23 12:34:05,285 - INFO - Registered new user: university
+2025-04-23 12:34:13,481 - INFO - Login successful for user_id 3
+2025-04-23 12:34:41,520 - INFO - Saved encrypted password for user 3
+2025-04-23 12:34:56,410 - INFO - Retrieved 1 passwords for user 3
