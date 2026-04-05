@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+safepass_app.db
+safepass.log
+*.db
