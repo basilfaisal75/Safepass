@@ -4,6 +4,22 @@ A desktop password manager built in Python as a final-year Cyber Security (Foren
 
 ---
 
+## Screenshots
+
+> Login Screen
+![Login](screenshots/login.png)
+
+> Main Menu
+![Main Menu](screenshots/menu.png)
+
+> Password Generator
+![Generator](screenshots/generator.png)
+
+> Saved Passwords
+![Passwords](screenshots/passwords.png)
+
+---
+
 ## Features
 
 - **User authentication** — Register and login with bcrypt-hashed passwords
